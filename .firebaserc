@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "prime-elf-389802": {
+      "hosting": {
+        "ecomerce": [
+          "prime-elf-389802"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "prime-elf-389802"
+  }
+}
